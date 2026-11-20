@@ -7,3 +7,5 @@ Students work through each case from dispatch to disposition: scene, primary sur
 Everything is in `index.html`. No sign-in, no server and no tracking. Progress and personal bests are saved only in the student's own browser.
 
 Check all treatment against the current NZ CPGs.
+
+The dyslexia-friendly reading option includes the OpenDyslexic font by Abbie Gonzalez, embedded under the SIL Open Font License 1.1 (see `OpenDyslexic-OFL.txt`).
